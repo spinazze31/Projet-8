@@ -6463,13 +6463,13 @@ fieldset:disabled .btn {
   box-sizing: content-box;
   flex: 0 1 auto;
   width: 30px;
-  height: 8px;
+  height: 3px;
   padding: 0;
   margin-right: 3px;
   margin-left: 3px;
   text-indent: -999px;
   cursor: pointer;
-  background-color: #e00f0f;
+  background-color: #5e5e5e;
   background-clip: padding-box;
   border: 0;
   border-top: 10px solid transparent;
